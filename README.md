@@ -1,7 +1,12 @@
-
 <div align="center">
   <h1>Hi there, I'm Syed Wasif Hussain (Wasif) 👋</h1>
+  
+  <a href="https://github.com/SyedWasif1234">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Systems;MERN+%7C+Next.js+%7C+AWS" alt="Typing SVG" />
+  </a>
+
   <h3>Results-oriented Full Stack Developer building scalable real-time systems, the CodeIU contest platform, and interactive academic applications.</h3>
+  
   <img src="https://komarev.com/ghpvc/?username=SyedWasif1234&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
@@ -28,20 +33,29 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ### 💬 Ask Me About
-
 * **Full-Stack Architecture** (MERN Stack, Next.js, Prisma ORM) 
 * **Real-time Systems** (Optimizing backend performance with Redis and WebSockets) 
 * **Data Structures & Algorithms** (Solving complex algorithmic problems in C++) 
 * **DevOps & Cloud** (Deploying secure cloud solutions on AWS EC2, Docker)
 
 ### 📫 How to Reach Me
-* **Email:** syedwasifhussain123456@gmail.com 
-* **Location:** Lucknow, India
-* **LinkedIn:** https://www.linkedin.com/in/wasif2345/
-* **Portfolio:** https://portfolio-sy3p.onrender.com/
+<div align="left">
+  <a href="mailto:syedwasifhussain123456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/wasif2345/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-sy3p.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/SyedWasif1234">
+    <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-success?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </a>
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedWasif1234&show_icons=true&theme=radical" alt="Wasif's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWasif1234&theme=radical" alt="Wasif's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedWasif1234&show_icons=true&theme=radical&hide_border=true" alt="Wasif's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWasif1234&theme=radical&hide_border=true" alt="Wasif's GitHub Streak" width="48%" />
 </div>
