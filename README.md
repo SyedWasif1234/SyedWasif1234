@@ -17,7 +17,7 @@
 * **Scaling CodeIU:** Developing a high-performance Node.js coding contest platform featuring real-time leaderboards powered by Redis ZSETs, WebSockets, and async processing via BullMQ. Successfully hosted an Integral University-wide contest on this platform.
 * **Building Drafty (EdTech):** Orchestrating a full-stack research consultancy platform using Next.js, PostgreSQL, and Prisma ORM. Successfully delivered guidance to 4 freelance clients through this entrepreneurial initiative.
 * **Developing QZii:** Creating a comprehensive full-stack quiz platform with robust Express.js backend controllers and dynamic React.js frontend routing.
-* **Exploring:** Machine Learning, specifically applying it to cybersecurity (like phishing website detection).
+* **Exploring:** Data Science.
 
 ### 🔧 Tech I’m Using
 **Languages & Core:**<br>
