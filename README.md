@@ -12,13 +12,6 @@
 
 ---
 
-### 🚀 Currently Working On & Experience
-
-- **Scaling CodeIU:** Developing a high-performance Node.js coding contest platform featuring real-time leaderboards powered by Redis ZSETs, WebSockets, and async processing via BullMQ[cite: 1]. Successfully hosted an Integral University-wide contest on this platform[cite: 1].
-- **Smart AI Attendance System:** Architected a full-stack AI-powered attendance system using Python, FastAPI, React, and dlib for facial landmark detection and 128-D face embeddings to automate classroom attendance[cite: 1].
-- **Building Drafty (EdTech):** Orchestrating a full-stack research consultancy platform using Next.js, PostgreSQL, and Prisma ORM[cite: 1]. Successfully delivered guidance to 4 freelance clients through this entrepreneurial initiative[cite: 1].
-- **Developing QZii & ML Models:** Creating a comprehensive full-stack quiz platform alongside machine learning systems, including a binary classification CreditWise loan system and an NLTK-driven movie review sentiment analysis engine[cite: 1].
-
 ### 🔧 Tech I’m Using
 **Languages & Core:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
